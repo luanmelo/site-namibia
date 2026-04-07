@@ -1,0 +1,18 @@
+﻿{
+  "name": "site-psicologia-namibia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page com integracao dinamica de avaliacoes do Google Places.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2"
+  }
+}
