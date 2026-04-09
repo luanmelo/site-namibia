@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Favicon Namíbia Oliveira Psicóloga">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#5b7464"/>
+      <stop offset="100%" stop-color="#3f5649"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="64" height="64" rx="16" fill="url(#bg)"/>
+
+  <g fill="none" stroke="#f6f4ee" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 48 C34 42, 34 38, 32 33" stroke-width="2.1"/>
+    <path d="M32 34 C28 33, 25 29, 26 25 C29 24, 32 26, 33 30" stroke-width="1.8"/>
+    <path d="M32 34 C36 33, 39 29, 38 25 C35 24, 32 26, 31 30" stroke-width="1.8"/>
+    <path d="M32 35 C28 36, 26 40, 27 44 C30 44, 32 41, 32.5 37" stroke-width="1.8"/>
+    <path d="M32 35 C36 36, 38 40, 37 44 C34 44, 32 41, 31.5 37" stroke-width="1.8"/>
+    <circle cx="32" cy="33.2" r="1.2" fill="#f6f4ee" stroke="none"/>
+  </g>
+</svg>
